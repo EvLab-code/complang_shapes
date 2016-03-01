@@ -1,0 +1,528 @@
+A big red square is above a big red circle.
+A big red square is above a big red triangle.
+A big red square is above a big blue square.
+A big red square is above a big blue circle.
+A big red square is above a big blue triangle.
+A big red square is above a small red square.
+A big red square is above a small red circle.
+A big red square is above a small red triangle.
+A big red square is above a small blue square.
+A big red square is above a small blue circle.
+A big red square is above a small blue triangle.
+A big red square is below a big red circle.
+A big red square is below a big red triangle.
+A big red square is below a big blue square.
+A big red square is below a big blue circle.
+A big red square is below a big blue triangle.
+A big red square is below a small red square.
+A big red square is below a small red circle.
+A big red square is below a small red triangle.
+A big red square is below a small blue square.
+A big red square is below a small blue circle.
+A big red square is below a small blue triangle.
+A big red square is in front of a big red circle.
+A big red square is in front of a big red triangle.
+A big red square is in front of a big blue square.
+A big red square is in front of a big blue circle.
+A big red square is in front of a big blue triangle.
+A big red square is in front of a small red square.
+A big red square is in front of a small red circle.
+A big red square is in front of a small red triangle.
+A big red square is in front of a small blue square.
+A big red square is in front of a small blue circle.
+A big red square is in front of a small blue triangle.
+A big red square is behind a big red circle.
+A big red square is behind a big red triangle.
+A big red square is behind a big blue square.
+A big red square is behind a big blue circle.
+A big red square is behind a big blue triangle.
+A big red square is behind a small red square.
+A big red square is behind a small red circle.
+A big red square is behind a small red triangle.
+A big red square is behind a small blue square.
+A big red square is behind a small blue circle.
+A big red square is behind a small blue triangle.
+A big red circle is above a big red square.
+A big red circle is above a big red triangle.
+A big red circle is above a big blue square.
+A big red circle is above a big blue circle.
+A big red circle is above a big blue triangle.
+A big red circle is above a small red square.
+A big red circle is above a small red circle.
+A big red circle is above a small red triangle.
+A big red circle is above a small blue square.
+A big red circle is above a small blue circle.
+A big red circle is above a small blue triangle.
+A big red circle is below a big red square.
+A big red circle is below a big red triangle.
+A big red circle is below a big blue square.
+A big red circle is below a big blue circle.
+A big red circle is below a big blue triangle.
+A big red circle is below a small red square.
+A big red circle is below a small red circle.
+A big red circle is below a small red triangle.
+A big red circle is below a small blue square.
+A big red circle is below a small blue circle.
+A big red circle is below a small blue triangle.
+A big red circle is in front of a big red square.
+A big red circle is in front of a big red triangle.
+A big red circle is in front of a big blue square.
+A big red circle is in front of a big blue circle.
+A big red circle is in front of a big blue triangle.
+A big red circle is in front of a small red square.
+A big red circle is in front of a small red circle.
+A big red circle is in front of a small red triangle.
+A big red circle is in front of a small blue square.
+A big red circle is in front of a small blue circle.
+A big red circle is in front of a small blue triangle.
+A big red circle is behind a big red square.
+A big red circle is behind a big red triangle.
+A big red circle is behind a big blue square.
+A big red circle is behind a big blue circle.
+A big red circle is behind a big blue triangle.
+A big red circle is behind a small red square.
+A big red circle is behind a small red circle.
+A big red circle is behind a small red triangle.
+A big red circle is behind a small blue square.
+A big red circle is behind a small blue circle.
+A big red circle is behind a small blue triangle.
+A big red triangle is above a big red square.
+A big red triangle is above a big red circle.
+A big red triangle is above a big blue square.
+A big red triangle is above a big blue circle.
+A big red triangle is above a big blue triangle.
+A big red triangle is above a small red square.
+A big red triangle is above a small red circle.
+A big red triangle is above a small red triangle.
+A big red triangle is above a small blue square.
+A big red triangle is above a small blue circle.
+A big red triangle is above a small blue triangle.
+A big red triangle is below a big red square.
+A big red triangle is below a big red circle.
+A big red triangle is below a big blue square.
+A big red triangle is below a big blue circle.
+A big red triangle is below a big blue triangle.
+A big red triangle is below a small red square.
+A big red triangle is below a small red circle.
+A big red triangle is below a small red triangle.
+A big red triangle is below a small blue square.
+A big red triangle is below a small blue circle.
+A big red triangle is below a small blue triangle.
+A big red triangle is in front of a big red square.
+A big red triangle is in front of a big red circle.
+A big red triangle is in front of a big blue square.
+A big red triangle is in front of a big blue circle.
+A big red triangle is in front of a big blue triangle.
+A big red triangle is in front of a small red square.
+A big red triangle is in front of a small red circle.
+A big red triangle is in front of a small red triangle.
+A big red triangle is in front of a small blue square.
+A big red triangle is in front of a small blue circle.
+A big red triangle is in front of a small blue triangle.
+A big red triangle is behind a big red square.
+A big red triangle is behind a big red circle.
+A big red triangle is behind a big blue square.
+A big red triangle is behind a big blue circle.
+A big red triangle is behind a big blue triangle.
+A big red triangle is behind a small red square.
+A big red triangle is behind a small red circle.
+A big red triangle is behind a small red triangle.
+A big red triangle is behind a small blue square.
+A big red triangle is behind a small blue circle.
+A big red triangle is behind a small blue triangle.
+A big blue square is above a big red square.
+A big blue square is above a big red circle.
+A big blue square is above a big red triangle.
+A big blue square is above a big blue circle.
+A big blue square is above a big blue triangle.
+A big blue square is above a small red square.
+A big blue square is above a small red circle.
+A big blue square is above a small red triangle.
+A big blue square is above a small blue square.
+A big blue square is above a small blue circle.
+A big blue square is above a small blue triangle.
+A big blue square is below a big red square.
+A big blue square is below a big red circle.
+A big blue square is below a big red triangle.
+A big blue square is below a big blue circle.
+A big blue square is below a big blue triangle.
+A big blue square is below a small red square.
+A big blue square is below a small red circle.
+A big blue square is below a small red triangle.
+A big blue square is below a small blue square.
+A big blue square is below a small blue circle.
+A big blue square is below a small blue triangle.
+A big blue square is in front of a big red square.
+A big blue square is in front of a big red circle.
+A big blue square is in front of a big red triangle.
+A big blue square is in front of a big blue circle.
+A big blue square is in front of a big blue triangle.
+A big blue square is in front of a small red square.
+A big blue square is in front of a small red circle.
+A big blue square is in front of a small red triangle.
+A big blue square is in front of a small blue square.
+A big blue square is in front of a small blue circle.
+A big blue square is in front of a small blue triangle.
+A big blue square is behind a big red square.
+A big blue square is behind a big red circle.
+A big blue square is behind a big red triangle.
+A big blue square is behind a big blue circle.
+A big blue square is behind a big blue triangle.
+A big blue square is behind a small red square.
+A big blue square is behind a small red circle.
+A big blue square is behind a small red triangle.
+A big blue square is behind a small blue square.
+A big blue square is behind a small blue circle.
+A big blue square is behind a small blue triangle.
+A big blue circle is above a big red square.
+A big blue circle is above a big red circle.
+A big blue circle is above a big red triangle.
+A big blue circle is above a big blue square.
+A big blue circle is above a big blue triangle.
+A big blue circle is above a small red square.
+A big blue circle is above a small red circle.
+A big blue circle is above a small red triangle.
+A big blue circle is above a small blue square.
+A big blue circle is above a small blue circle.
+A big blue circle is above a small blue triangle.
+A big blue circle is below a big red square.
+A big blue circle is below a big red circle.
+A big blue circle is below a big red triangle.
+A big blue circle is below a big blue square.
+A big blue circle is below a big blue triangle.
+A big blue circle is below a small red square.
+A big blue circle is below a small red circle.
+A big blue circle is below a small red triangle.
+A big blue circle is below a small blue square.
+A big blue circle is below a small blue circle.
+A big blue circle is below a small blue triangle.
+A big blue circle is in front of a big red square.
+A big blue circle is in front of a big red circle.
+A big blue circle is in front of a big red triangle.
+A big blue circle is in front of a big blue square.
+A big blue circle is in front of a big blue triangle.
+A big blue circle is in front of a small red square.
+A big blue circle is in front of a small red circle.
+A big blue circle is in front of a small red triangle.
+A big blue circle is in front of a small blue square.
+A big blue circle is in front of a small blue circle.
+A big blue circle is in front of a small blue triangle.
+A big blue circle is behind a big red square.
+A big blue circle is behind a big red circle.
+A big blue circle is behind a big red triangle.
+A big blue circle is behind a big blue square.
+A big blue circle is behind a big blue triangle.
+A big blue circle is behind a small red square.
+A big blue circle is behind a small red circle.
+A big blue circle is behind a small red triangle.
+A big blue circle is behind a small blue square.
+A big blue circle is behind a small blue circle.
+A big blue circle is behind a small blue triangle.
+A big blue triangle is above a big red square.
+A big blue triangle is above a big red circle.
+A big blue triangle is above a big red triangle.
+A big blue triangle is above a big blue square.
+A big blue triangle is above a big blue circle.
+A big blue triangle is above a small red square.
+A big blue triangle is above a small red circle.
+A big blue triangle is above a small red triangle.
+A big blue triangle is above a small blue square.
+A big blue triangle is above a small blue circle.
+A big blue triangle is above a small blue triangle.
+A big blue triangle is below a big red square.
+A big blue triangle is below a big red circle.
+A big blue triangle is below a big red triangle.
+A big blue triangle is below a big blue square.
+A big blue triangle is below a big blue circle.
+A big blue triangle is below a small red square.
+A big blue triangle is below a small red circle.
+A big blue triangle is below a small red triangle.
+A big blue triangle is below a small blue square.
+A big blue triangle is below a small blue circle.
+A big blue triangle is below a small blue triangle.
+A big blue triangle is in front of a big red square.
+A big blue triangle is in front of a big red circle.
+A big blue triangle is in front of a big red triangle.
+A big blue triangle is in front of a big blue square.
+A big blue triangle is in front of a big blue circle.
+A big blue triangle is in front of a small red square.
+A big blue triangle is in front of a small red circle.
+A big blue triangle is in front of a small red triangle.
+A big blue triangle is in front of a small blue square.
+A big blue triangle is in front of a small blue circle.
+A big blue triangle is in front of a small blue triangle.
+A big blue triangle is behind a big red square.
+A big blue triangle is behind a big red circle.
+A big blue triangle is behind a big red triangle.
+A big blue triangle is behind a big blue square.
+A big blue triangle is behind a big blue circle.
+A big blue triangle is behind a small red square.
+A big blue triangle is behind a small red circle.
+A big blue triangle is behind a small red triangle.
+A big blue triangle is behind a small blue square.
+A big blue triangle is behind a small blue circle.
+A big blue triangle is behind a small blue triangle.
+A small red square is above a big red square.
+A small red square is above a big red circle.
+A small red square is above a big red triangle.
+A small red square is above a big blue square.
+A small red square is above a big blue circle.
+A small red square is above a big blue triangle.
+A small red square is above a small red circle.
+A small red square is above a small red triangle.
+A small red square is above a small blue square.
+A small red square is above a small blue circle.
+A small red square is above a small blue triangle.
+A small red square is below a big red square.
+A small red square is below a big red circle.
+A small red square is below a big red triangle.
+A small red square is below a big blue square.
+A small red square is below a big blue circle.
+A small red square is below a big blue triangle.
+A small red square is below a small red circle.
+A small red square is below a small red triangle.
+A small red square is below a small blue square.
+A small red square is below a small blue circle.
+A small red square is below a small blue triangle.
+A small red square is in front of a big red square.
+A small red square is in front of a big red circle.
+A small red square is in front of a big red triangle.
+A small red square is in front of a big blue square.
+A small red square is in front of a big blue circle.
+A small red square is in front of a big blue triangle.
+A small red square is in front of a small red circle.
+A small red square is in front of a small red triangle.
+A small red square is in front of a small blue square.
+A small red square is in front of a small blue circle.
+A small red square is in front of a small blue triangle.
+A small red square is behind a big red square.
+A small red square is behind a big red circle.
+A small red square is behind a big red triangle.
+A small red square is behind a big blue square.
+A small red square is behind a big blue circle.
+A small red square is behind a big blue triangle.
+A small red square is behind a small red circle.
+A small red square is behind a small red triangle.
+A small red square is behind a small blue square.
+A small red square is behind a small blue circle.
+A small red square is behind a small blue triangle.
+A small red circle is above a big red square.
+A small red circle is above a big red circle.
+A small red circle is above a big red triangle.
+A small red circle is above a big blue square.
+A small red circle is above a big blue circle.
+A small red circle is above a big blue triangle.
+A small red circle is above a small red square.
+A small red circle is above a small red triangle.
+A small red circle is above a small blue square.
+A small red circle is above a small blue circle.
+A small red circle is above a small blue triangle.
+A small red circle is below a big red square.
+A small red circle is below a big red circle.
+A small red circle is below a big red triangle.
+A small red circle is below a big blue square.
+A small red circle is below a big blue circle.
+A small red circle is below a big blue triangle.
+A small red circle is below a small red square.
+A small red circle is below a small red triangle.
+A small red circle is below a small blue square.
+A small red circle is below a small blue circle.
+A small red circle is below a small blue triangle.
+A small red circle is in front of a big red square.
+A small red circle is in front of a big red circle.
+A small red circle is in front of a big red triangle.
+A small red circle is in front of a big blue square.
+A small red circle is in front of a big blue circle.
+A small red circle is in front of a big blue triangle.
+A small red circle is in front of a small red square.
+A small red circle is in front of a small red triangle.
+A small red circle is in front of a small blue square.
+A small red circle is in front of a small blue circle.
+A small red circle is in front of a small blue triangle.
+A small red circle is behind a big red square.
+A small red circle is behind a big red circle.
+A small red circle is behind a big red triangle.
+A small red circle is behind a big blue square.
+A small red circle is behind a big blue circle.
+A small red circle is behind a big blue triangle.
+A small red circle is behind a small red square.
+A small red circle is behind a small red triangle.
+A small red circle is behind a small blue square.
+A small red circle is behind a small blue circle.
+A small red circle is behind a small blue triangle.
+A small red triangle is above a big red square.
+A small red triangle is above a big red circle.
+A small red triangle is above a big red triangle.
+A small red triangle is above a big blue square.
+A small red triangle is above a big blue circle.
+A small red triangle is above a big blue triangle.
+A small red triangle is above a small red square.
+A small red triangle is above a small red circle.
+A small red triangle is above a small blue square.
+A small red triangle is above a small blue circle.
+A small red triangle is above a small blue triangle.
+A small red triangle is below a big red square.
+A small red triangle is below a big red circle.
+A small red triangle is below a big red triangle.
+A small red triangle is below a big blue square.
+A small red triangle is below a big blue circle.
+A small red triangle is below a big blue triangle.
+A small red triangle is below a small red square.
+A small red triangle is below a small red circle.
+A small red triangle is below a small blue square.
+A small red triangle is below a small blue circle.
+A small red triangle is below a small blue triangle.
+A small red triangle is in front of a big red square.
+A small red triangle is in front of a big red circle.
+A small red triangle is in front of a big red triangle.
+A small red triangle is in front of a big blue square.
+A small red triangle is in front of a big blue circle.
+A small red triangle is in front of a big blue triangle.
+A small red triangle is in front of a small red square.
+A small red triangle is in front of a small red circle.
+A small red triangle is in front of a small blue square.
+A small red triangle is in front of a small blue circle.
+A small red triangle is in front of a small blue triangle.
+A small red triangle is behind a big red square.
+A small red triangle is behind a big red circle.
+A small red triangle is behind a big red triangle.
+A small red triangle is behind a big blue square.
+A small red triangle is behind a big blue circle.
+A small red triangle is behind a big blue triangle.
+A small red triangle is behind a small red square.
+A small red triangle is behind a small red circle.
+A small red triangle is behind a small blue square.
+A small red triangle is behind a small blue circle.
+A small red triangle is behind a small blue triangle.
+A small blue square is above a big red square.
+A small blue square is above a big red circle.
+A small blue square is above a big red triangle.
+A small blue square is above a big blue square.
+A small blue square is above a big blue circle.
+A small blue square is above a big blue triangle.
+A small blue square is above a small red square.
+A small blue square is above a small red circle.
+A small blue square is above a small red triangle.
+A small blue square is above a small blue circle.
+A small blue square is above a small blue triangle.
+A small blue square is below a big red square.
+A small blue square is below a big red circle.
+A small blue square is below a big red triangle.
+A small blue square is below a big blue square.
+A small blue square is below a big blue circle.
+A small blue square is below a big blue triangle.
+A small blue square is below a small red square.
+A small blue square is below a small red circle.
+A small blue square is below a small red triangle.
+A small blue square is below a small blue circle.
+A small blue square is below a small blue triangle.
+A small blue square is in front of a big red square.
+A small blue square is in front of a big red circle.
+A small blue square is in front of a big red triangle.
+A small blue square is in front of a big blue square.
+A small blue square is in front of a big blue circle.
+A small blue square is in front of a big blue triangle.
+A small blue square is in front of a small red square.
+A small blue square is in front of a small red circle.
+A small blue square is in front of a small red triangle.
+A small blue square is in front of a small blue circle.
+A small blue square is in front of a small blue triangle.
+A small blue square is behind a big red square.
+A small blue square is behind a big red circle.
+A small blue square is behind a big red triangle.
+A small blue square is behind a big blue square.
+A small blue square is behind a big blue circle.
+A small blue square is behind a big blue triangle.
+A small blue square is behind a small red square.
+A small blue square is behind a small red circle.
+A small blue square is behind a small red triangle.
+A small blue square is behind a small blue circle.
+A small blue square is behind a small blue triangle.
+A small blue circle is above a big red square.
+A small blue circle is above a big red circle.
+A small blue circle is above a big red triangle.
+A small blue circle is above a big blue square.
+A small blue circle is above a big blue circle.
+A small blue circle is above a big blue triangle.
+A small blue circle is above a small red square.
+A small blue circle is above a small red circle.
+A small blue circle is above a small red triangle.
+A small blue circle is above a small blue square.
+A small blue circle is above a small blue triangle.
+A small blue circle is below a big red square.
+A small blue circle is below a big red circle.
+A small blue circle is below a big red triangle.
+A small blue circle is below a big blue square.
+A small blue circle is below a big blue circle.
+A small blue circle is below a big blue triangle.
+A small blue circle is below a small red square.
+A small blue circle is below a small red circle.
+A small blue circle is below a small red triangle.
+A small blue circle is below a small blue square.
+A small blue circle is below a small blue triangle.
+A small blue circle is in front of a big red square.
+A small blue circle is in front of a big red circle.
+A small blue circle is in front of a big red triangle.
+A small blue circle is in front of a big blue square.
+A small blue circle is in front of a big blue circle.
+A small blue circle is in front of a big blue triangle.
+A small blue circle is in front of a small red square.
+A small blue circle is in front of a small red circle.
+A small blue circle is in front of a small red triangle.
+A small blue circle is in front of a small blue square.
+A small blue circle is in front of a small blue triangle.
+A small blue circle is behind a big red square.
+A small blue circle is behind a big red circle.
+A small blue circle is behind a big red triangle.
+A small blue circle is behind a big blue square.
+A small blue circle is behind a big blue circle.
+A small blue circle is behind a big blue triangle.
+A small blue circle is behind a small red square.
+A small blue circle is behind a small red circle.
+A small blue circle is behind a small red triangle.
+A small blue circle is behind a small blue square.
+A small blue circle is behind a small blue triangle.
+A small blue triangle is above a big red square.
+A small blue triangle is above a big red circle.
+A small blue triangle is above a big red triangle.
+A small blue triangle is above a big blue square.
+A small blue triangle is above a big blue circle.
+A small blue triangle is above a big blue triangle.
+A small blue triangle is above a small red square.
+A small blue triangle is above a small red circle.
+A small blue triangle is above a small red triangle.
+A small blue triangle is above a small blue square.
+A small blue triangle is above a small blue circle.
+A small blue triangle is below a big red square.
+A small blue triangle is below a big red circle.
+A small blue triangle is below a big red triangle.
+A small blue triangle is below a big blue square.
+A small blue triangle is below a big blue circle.
+A small blue triangle is below a big blue triangle.
+A small blue triangle is below a small red square.
+A small blue triangle is below a small red circle.
+A small blue triangle is below a small red triangle.
+A small blue triangle is below a small blue square.
+A small blue triangle is below a small blue circle.
+A small blue triangle is in front of a big red square.
+A small blue triangle is in front of a big red circle.
+A small blue triangle is in front of a big red triangle.
+A small blue triangle is in front of a big blue square.
+A small blue triangle is in front of a big blue circle.
+A small blue triangle is in front of a big blue triangle.
+A small blue triangle is in front of a small red square.
+A small blue triangle is in front of a small red circle.
+A small blue triangle is in front of a small red triangle.
+A small blue triangle is in front of a small blue square.
+A small blue triangle is in front of a small blue circle.
+A small blue triangle is behind a big red square.
+A small blue triangle is behind a big red circle.
+A small blue triangle is behind a big red triangle.
+A small blue triangle is behind a big blue square.
+A small blue triangle is behind a big blue circle.
+A small blue triangle is behind a big blue triangle.
+A small blue triangle is behind a small red square.
+A small blue triangle is behind a small red circle.
+A small blue triangle is behind a small red triangle.
+A small blue triangle is behind a small blue square.
+A small blue triangle is behind a small blue circle.
