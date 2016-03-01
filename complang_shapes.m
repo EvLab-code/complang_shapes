@@ -29,6 +29,7 @@ function complang_shapes( subjID, runNum, rand_seed )
 %   .run_stim_order - the order in which the rows of run_data_table were presented
 %
 % Created: bpritche, 01/11/2016
+% new edit
 % Based on code by Sam Gershman (complang_experiment1)
 
 %% %%%%%%%%%%%%%%%%%%  Initialization  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
